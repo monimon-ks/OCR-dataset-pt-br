@@ -1,2 +1,2 @@
-# An Brazilian Portuguese OCR Dataset 
+### An OCR Dataset for Brazilian Portuguese
 

@@ -38,4 +38,5 @@ PDFs selecionados de livros/textos da biblioteca nacional digital:
   - Selecionar número de páginas que extrairemos de cada documento. 
   - Selecionar a proporção de caracteres por sample. 
   - Extrair ground truth dos PDFs editáveis. 
-  - Imprimir PDFs e escanear.
+  - Transformar pdf selecionaveis em não selecionáveis.
+  - Separação treino, validação e teste.
